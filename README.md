@@ -1,11 +1,11 @@
 CDN
 ===
 
-## Lightbox
+## Lightbox for WordPress Gallery
 
-    <link href='//cdn.rawgit.com/tronsha/cdn/lightbox/css/lightbox.css' type='text/css' rel='stylesheet'>
-    <script src='//cdn.rawgit.com/tronsha/cdn/lightbox/js/lightbox.min.js' type='text/javascript'></script>
-    <script src='//cdn.rawgit.com/tronsha/cdn/lightbox/js/lightbox2gallery.js' type='text/javascript'></script>
+    //cdn.rawgit.com/tronsha/cdn/lightbox/css/lightbox.css
+    //cdn.rawgit.com/tronsha/cdn/lightbox/js/lightbox.min.js
+    //cdn.rawgit.com/tronsha/cdn/lightbox/js/lightbox2gallery.js
 
 ## Creator
 
